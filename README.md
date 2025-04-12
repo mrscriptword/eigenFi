@@ -47,12 +47,8 @@ Edit file `config.js` untuk mengatur koneksi ke RPC dan wallet:
 ```js
 module.exports = {
   PRIVATE_KEY: '0x...',
-  ADDRESS: '0xYourWalletAddress',
-  RPC: 'https://aptos.testnet.bardock.movementlabs.xyz/v1'
 };
 ```
-
-> ❗ Jangan commit `PRIVATE_KEY` ke repositori publik. Gunakan `.env` untuk produksi.
 
 ## ▶️ Menjalankan
 
