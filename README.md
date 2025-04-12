@@ -44,10 +44,6 @@ Untuk menjalankan skrip CLI:
 node index.js
 ```
 
-Pastikan Anda sudah mengatur `config.js` dengan benar.
-
-## 💡 Contoh Use Case (direncanakan)
-
 - `stake()` — Mengunci token ke dalam smart contract vault.
 - `unstake()` — Mengeluarkan token setelah periode tertentu.
 - `claim()` — Mengambil reward berdasarkan jadwal distribusi.
