@@ -1,22 +1,8 @@
-Berikut adalah versi lengkap README yang dirancang untuk repositori [`eigenFi`](https://github.com/mrscriptword/eigenFi), dengan asumsi proyek ini merupakan prototipe atau modul DeFi berbasis Node.js yang akan dikembangkan lebih lanjut:
-
----
-
-# eigenFi
-
-**eigenFi** adalah proyek awal untuk pengembangan sistem keuangan terdesentralisasi (DeFi) yang berjalan di atas teknologi blockchain. Proyek ini dibangun menggunakan Node.js dan ditujukan untuk eksplorasi konsep-konsep DeFi seperti staking, vault, dan integrasi smart contract.
-
 ## 🚀 Fitur (Planned)
-
-- 🔐 Integrasi dengan smart contract staking
-- 📦 Pengelolaan konfigurasi terpusat melalui `config.js`
-- ⚙️ Command-line interface (CLI) untuk interaksi pengguna
-- 🛠️ Siap dikembangkan ke berbagai modul seperti:
   - Vault pengelolaan aset
   - Reward claiming
   - Unstaking logic
   - Schedule management
-
 ## 🧱 Struktur Proyek
 
 ```bash
